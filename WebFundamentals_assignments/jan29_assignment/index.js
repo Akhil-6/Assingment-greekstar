@@ -1,5 +1,5 @@
 //Assignment -> 1 give count of vowels in a number
-/*
+
 var name = prompt("enter your name");
 var arr = name.split("");
 console.log(arr)
@@ -28,7 +28,7 @@ for(var i =0;i<arr.length;i++){
 			break;
 	}
 }console.log("Number of vowels in your name is " + count);
-*/
+
 
 //Assignment -> 2 check given number is prime num or not
 
