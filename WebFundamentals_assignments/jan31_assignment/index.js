@@ -1,4 +1,4 @@
-Assigment -> 1
+//Assigment -> 1
 
 var obj = {
     "first_name": "Aayush",
