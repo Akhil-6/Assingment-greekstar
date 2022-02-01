@@ -44,4 +44,5 @@ for(i=0;i<arr.length;i++){
 		j=j+1
 	}
 }
+console.log("the students who got marks more than or equal to " + user_input + " are" )
 console.log(name_arr)
