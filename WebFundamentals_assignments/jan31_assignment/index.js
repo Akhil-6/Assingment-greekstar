@@ -1,4 +1,4 @@
-//Assigment -> 1
+//Assignment -> 1
 
 var obj = {
     "first_name": "Aayush",
