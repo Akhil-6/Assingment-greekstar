@@ -33,7 +33,7 @@ for(var i =0;i<arr.length;i++){
 //Assignment -> 2 check given number is prime num or not
 
 
-var num = prompt("enter your name");
+var num = prompt("enter a num");
 num = parseInt(num);
 
 var sum = 0;
