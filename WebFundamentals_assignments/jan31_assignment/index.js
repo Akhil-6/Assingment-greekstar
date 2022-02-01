@@ -34,7 +34,7 @@ var obj = {
     ],
 };
 var arr = obj.students;
-var user_input = prompt("enter a valid marks");
+var user_input = prompt("enter a valid marks from 0 to 100");
 user_input=parseInt(user_input)
 var name_arr = [];
 var j = 0
