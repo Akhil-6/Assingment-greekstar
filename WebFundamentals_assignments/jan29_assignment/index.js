@@ -49,5 +49,5 @@ else if (sum==1){
 	alert("is prime");}
 else {
 	console.log("is not aprime");
-	alert("is not a prime");
+	alert(num + " is not a prime");
 }
